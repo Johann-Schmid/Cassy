@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "Connector")(type "Legacy")(uri "D:/cassy/cassy/Connector.lib")(options "")(descr ""))
   (lib (name "max4659")(type "KiCad")(uri "${KIPRJMOD}/max4659.kicad_sym")(options "")(descr ""))
+  (lib (name "opa202")(type "KiCad")(uri "${KIPRJMOD}/op202.kicad_sym")(options "")(descr ""))
 )
