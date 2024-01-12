@@ -1714,7 +1714,7 @@
     (property "Reference" "C6" (at 251.46 129.159 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "C_Polarized" (at 251.46 131.699 0)
+    (property "Value" "100u" (at 251.46 131.699 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Footprint" "Capacitor_THT:CP_Radial_D6.3mm_P2.50mm" (at 246.6848 125.73 0)
